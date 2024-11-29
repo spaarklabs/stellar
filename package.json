@@ -44,20 +44,20 @@
     "dist"
   ],
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^28.0.0",
+    "@rollup/plugin-commonjs": "^28.0.1",
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^15.3.0",
     "@rollup/plugin-terser": "^0.4.4",
-    "@rollup/plugin-typescript": "^12.1.0",
-    "@types/react": "^18.3.9",
+    "@rollup/plugin-typescript": "^12.1.1",
+    "@types/react": "^18.3.12",
     "npm-run-all": "^4.1.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "rollup": "^4.22.4",
+    "rollup": "^4.27.4",
     "rollup-plugin-dts": "^6.1.1",
     "shx": "^0.3.4",
-    "tslib": "^2.7.0",
-    "typescript": "^5.6.2"
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2"
   },
   "peerDependencies": {
     "react": ">=17.0.0",
